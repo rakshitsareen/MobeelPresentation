@@ -1,4 +1,4 @@
 MobeelPresentation
 ==================
 
-Presentation for TCS Mobeel comtest
+Presentation for TCS Mobeel contest
