@@ -145,7 +145,7 @@ section, footer{
     left: 290px;
     line-height: 1.6;
     top: 120px;
-    color: #028e9b;
+    color: #00c618;
     white-space: nowrap;
 }
 
