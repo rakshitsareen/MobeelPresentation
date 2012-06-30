@@ -143,7 +143,7 @@ section, footer{
 #intro p{
 	font-size: 22px;
     left: 290px;
-    line-height: 1.6;
+    line-height: 1.4;
     top: 120px;
     color: #028e9b;
     white-space: nowrap;
@@ -184,6 +184,28 @@ Slide 2 : Inspiration
 }
 
 /*----------------------------
+	Slide 3 - q1
+-----------------------------*/
+
+#impress #ques1{
+	width: 675px;
+}
+
+#ques1 h2{
+	
+	top: 105px;
+	color: #ff9f00;
+	width: 300px;
+	float: left;
+}
+
+
+#ques1 img{
+	right: 0;
+    top: 30px;
+    float: right;
+}
+/*----------------------------
 	Slide 2 - Simplicity
 -----------------------------*/
 
@@ -211,12 +233,37 @@ Slide 2 : Inspiration
     top: 30px;
 }
 
+/******************************88
+headfake
+***********************************/
 
-/*----------------------------
-	Slide 3 - Connect
------------------------------*/
 
 
+#impress #headfake{
+	width: 500px;
+}
+
+#headfake h2{
+	text-align: center;
+    width: 100%;
+    color: #d30068
+}
+#headfake p{
+	font-size: 22px;
+    left: 310px;
+    line-height: 1.6;
+    top: 120px;
+    color: #5f9900;
+    white-space: nowrap;
+}
+
+#headfake img{
+	top: 120px;
+	float: left;
+	}
+/*
+**************
+*/
 #impress #connect{
 	width: 560px;
 }
@@ -270,7 +317,7 @@ Slide 2 : Inspiration
 
 
 /*----------------------------
-	Slide 5 - Music
+	Slide 5 - level
 -----------------------------*/
 
 
@@ -303,8 +350,169 @@ Slide 2 : Inspiration
 /*----------------------------
 	The Footer
 -----------------------------*/
+/*****************************/
 
 
+#impress #level{
+	width: 690px;
+}
+
+#level h2{
+	left: 0;
+    text-align: center;
+    /*top: 10px;*/
+    width: 100%;
+    color: #1049a9;
+}
+
+#level p{
+	font-size: 15px;
+    left: 45px;
+   /* text-indent: 15px;*/
+    top: 59px;
+    width: 402px;
+    color: #6997d3;
+}
+
+#level img{
+	right: 0;
+    top: 200px;
+}
+/**************************/
+
+#impress #features{
+	width: 690px;
+}
+
+#features h2{
+	left: 0;
+    text-align: center;
+    /*top: 10px;*/
+    width: 100%;
+    color: #015c65;
+}
+
+#features p{
+	font-size: 15px;
+    left: 45px;
+   /* text-indent: 15px;*/
+    top: 59px;
+    width: 402px;
+    height: 100px;
+    color: #a64a00
+}
+
+#features img{
+	right: 0;
+    top: 200px;
+}
+/********************/
+#survey1 h2{
+	left: 0;
+    text-align: center;
+    /*top: 10px;*/
+    width: 100%;
+    color: #1049a9;
+}
+
+#survey1 p{
+	font-size: 15px;
+    left: 45px;
+   /* text-indent: 15px;*/
+    top: 59px;
+    width: 402px;
+    color: #6997d3;
+}
+
+#survey1 img{
+	right: 0;
+    top: 100px;
+}
+/*********************/
+
+#survey2 h2{
+	left: 0;
+    text-align: center;
+    /*top: 10px;*/
+    width: 100%;
+    color: #1049a9;
+}
+
+#survey2 p{
+	font-size: 15px;
+    left: 45px;
+   /* text-indent: 15px;*/
+    top: 59px;
+    width: 402px;
+    color: #6997d3;
+}
+
+#survey2 img{
+	right: 0;
+    top: 80px;
+}
+
+/*************************/
+#thanks img{
+	right: 0;
+    top: 40px;
+}
+
+
+
+/****************************/
+
+#impress #features1{
+	width: 675px;
+}
+
+#features1 h2{
+	
+	top: 105px;
+	color: #ffa400;
+	width: 400px;
+}
+
+#features1 p{
+	
+	
+    text-align: left;
+    /*text-indent: 6px;*/
+    top: 225px;
+    width: 365px;
+	color: #1049a9;    
+    }
+
+#features1 img{
+	right: 10px;
+	
+    top: 90px;
+    float: right;
+	left: 400px;
+}
+
+
+/*************************/
+
+#impress #features2{
+	width: 675px;
+}
+
+#features2 h2{
+	
+	
+	color: #2a4380;
+	width: 300px;
+	float: left;
+}
+
+
+#features2 img{
+	right: 0;
+    top: 160px;
+    float: right;
+}
+/****************************/
 footer{
 	background-color: #111111;
 	bottom: 0;
